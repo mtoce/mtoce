@@ -1,11 +1,8 @@
 ### Hey! I'm Michael Toce, check out some of my projects and info below! 👋
 
-- 🔭 I’m currently working on ... Driftly - for Nomads looking for a change
-- 🌱 I’m currently learning ... AWS
-- 👯 I’m looking to collaborate on ... An all-in-one Disc Golf Website
-- 🤔 I’m looking for help with ... Keyboard shortcuts to make my coding more efficient
+- 🔭 I’m currently working on ... Personal Projects & 1337code challenges
+- 🌱 I’m currently learning ... R coding language
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... By e-mail: mtoce@villanova.edu
 - 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ... I love playing Disc Golf (Favorite Disc = Discraft Zone)
-- 🏆 Greatest Accomplishment ... Finishing a Half Ironman (🏊1 mi. / 🚴56 mi. / 🏃13.1 mi.)
+- ⚡ Fun fact: ... I love playing Disc Golf (Favorite Disc -> Discraft Zone)
