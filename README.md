@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning ... R coding language
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... By e-mail: mtoce@villanova.edu
-- 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I love playing Disc Golf (Favorite Disc -> Discraft Zone)
