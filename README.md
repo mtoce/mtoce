@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning ... FrontEnd Dev (HMTL, CSS, JS) & ReactJS Framework
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... By e-mail: mptoce@gmail.com
-- ⚡ Fun fact: ... I love playing Disc Golf (Favorite Disc -> Discraft Zone)
+- ⚡ Fun fact: ... I'm a triathlete currently training for IronMan Maryland 2024!
