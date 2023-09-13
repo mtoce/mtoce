@@ -1,6 +1,6 @@
-### Hey! I'm Michael Toce, check out some of my projects and info below! 👋
+### Hello! I'm Michael Toce, check out some of my projects and info below! 👋
 
-- 🔭 I’m currently working on ... Frontend Dev Apps created with ReactJS, NextJS, and TailwindCSS
+- 🔭 I’m currently working on ... Frontend / Fullstack Apps created with ReactJS, NextJS, and TailwindCSS
 - 🌱 I’m currently learning ... ReactJS, NextJS & TailwindCSS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... By e-mail: mptoce@gmail.com
